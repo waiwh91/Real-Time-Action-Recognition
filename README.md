@@ -1,6 +1,8 @@
 
 # Multi-person Real-time Action Recognition Based-on Human Skeleton
 
+# This Repo was created 5 years ago and it can't work under the latest tensorflow and python3.11, So I cloned it and made it up to date, enjoy!
+
 ![](https://github.com/felixchenfy/Data-Storage/raw/master/EECS-433-Pattern-Recognition/recog_actions.gif)
 
 ![](https://github.com/felixchenfy/Data-Storage/raw/master/EECS-433-Pattern-Recognition/recog_actions2.gif)
